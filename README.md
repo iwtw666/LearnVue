@@ -1,6 +1,6 @@
-# todolist
+# LearnVue
 
-> todolist demo learn
+> Learn Vue.js based on vue-cli
 
 ## Build Setup
 
