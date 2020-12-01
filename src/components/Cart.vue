@@ -83,6 +83,7 @@ export default {
 <style scoped>
 #cart {
     background-color:antiquewhite;
+    margin-bottom:60px;
     border:black solid 1px;
 }
 li {

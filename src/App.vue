@@ -2,18 +2,21 @@
   <div id="app">
     <todolist/>
     <cart/>
+    <axios/>
   </div>
 </template>
 
 <script>
 import todolist from './components/TodoList'
 import cart from './components/Cart'
+import axios from './components/Axios_watch'
 
 export default {
   name: 'App',
   components: {
     todolist,
-    cart
+    cart,
+    axios
   }
 }
 </script>

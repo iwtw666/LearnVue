@@ -1,6 +1,6 @@
-# learn Vue.js
+# todolist
 
-> learn to programming with Vue.js based on webpack 
+> todolist demo learn
 
 ## Build Setup
 
